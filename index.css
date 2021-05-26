@@ -54,14 +54,24 @@ footer{
     padding-right: 300px;
     text-align: center;
     margin: 30px;
-    border: solid black 2px;
+    /* border: solid black 2px; */
     padding: 10px;
 }
 button:hover{
-    color: rgb(255, 0, 0);
+    color: rgb(255, 0, 0); 
 }
 button{
     background-color: black;
     color: white;
     margin-top: 10px;
+}
+.Img1{
+    text-align: center;
+    padding-bottom: 20px;
+}
+/* .logo{
+    text-align: center;
+} */
+.ForImg{
+    text-align: center;
 }
